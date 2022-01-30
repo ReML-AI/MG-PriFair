@@ -4,7 +4,7 @@
 
 # Model architecture
 
-![alt text](https://github.com/ReML-AI/MG-PriFair/blob/master/mgprifair.jpg?raw=true)
+![alt text](https://github.com/ReML-AI/MG-PriFair/blob/master/images/mgprifair.png?raw=true)
 
 # Datasets
 
